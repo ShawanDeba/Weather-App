@@ -1,5 +1,5 @@
 # Weather App
-![image](https://github.com/ShawanDeba/Weather-App/assets/66467342/997180d8-0299-4141-9183-205eb6cbe12e)
+![image](https://github.com/ShawanDeba/Weather-App/assets/66467342/cfc98334-4075-490e-bcc9-916ae5c7e06e)
 
 
 Welcome to the Weather App! This simple web application allows users to check the current weather conditions for any location around the world. It was built using HTML, CSS, and JavaScript.
@@ -21,7 +21,8 @@ Welcome to the Weather App! This simple web application allows users to check th
 **Search for Weather:-**
 1. Enter the name of a city or location in the input field.
 2. Press the "Search" button.
-4. View the current weather conditions for the specified location.
+3. If the city name is valid it will give the current weather conditions for the specified location.
+4. Otherwise it will show an error "enter valid city name"
 
 ## Contributing
 
