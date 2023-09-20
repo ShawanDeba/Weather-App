@@ -1,4 +1,6 @@
 # Weather App
+![image](https://github.com/ShawanDeba/Weather-App/assets/66467342/997180d8-0299-4141-9183-205eb6cbe12e)
+
 
 Welcome to the Weather App! This simple web application allows users to check the current weather conditions for any location around the world. It was built using HTML, CSS, and JavaScript.
 
@@ -31,4 +33,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to your branch: git push origin feature-name.
 5. Create a pull request on the original repository.
 
-## Live Demo : 
+## Live Demo : [Weather App](https://shawandeba.github.io/Weather-App/)
